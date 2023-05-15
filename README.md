@@ -6,6 +6,10 @@ Team Members: Hafsa Chaudhry, Omar Agha Khan, Hetvi Patel, and Sarah Denlinger
 ## Dataset
 The dataset can be obtained from Yelp's Open Dataset website (https://www.yelp.com/dataset). This dataset originally included over 5 million reviews for businesses in 11 metropolitan areas across 4 countries. The dataset was decreased and now only includes restaurants in Philadelphia, PA.
 
+<img width="585" alt="image" src="https://github.com/ihetvipatel/DATA-606-Capstone-Project-Conversational-Recommender-System-for-Restaurants/assets/129907365/0524ce63-619f-4678-a11b-e4438249dee8">
+
+The image above shows the location of the restaurants in the dataset.
+
 The dataset includes information such as the reviewer's name, the date of the review, the rating given by the reviewer, and the text of the review. There are also details about the business such as its name, location, category, and attributes.
 
 ## Our Approach
