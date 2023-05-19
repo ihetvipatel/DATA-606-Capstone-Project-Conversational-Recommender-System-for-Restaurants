@@ -1,6 +1,6 @@
 # DATA-606-Capstone-Project-Conversational-Recommender-System-for-Restaurants
 
-### Demo
+### Working Demo
 
 ![](https://github.com/ihetvipatel/DATA-606-Capstone-Project-Conversational-Recommender-System-for-Restaurants/blob/main/chatbot.gif)
 
