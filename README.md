@@ -2,7 +2,7 @@
 
 ### Working Demo
 
-![](https://github.com/ihetvipatel/DATA-606-Capstone-Project-Conversational-Recommender-System-for-Restaurants/blob/main/chatbot.gif)| height="250">
+![](https://github.com/ihetvipatel/DATA-606-Capstone-Project-Conversational-Recommender-System-for-Restaurants/blob/main/chatbot.gif | height = "250")
 
 ## Conversational Recommender System for Restaurants
 Team Members: Hafsa Chaudhry, Omar Agha Khan, Hetvi Patel, and Sarah Denlinger
